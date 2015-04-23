@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "bradley@spencerfam.com",
+    "longName": "Digital Watch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/digital-7 (mono).ttf",
+                "name": "FONT_DIGITAL_SEVEN_24",
+                "type": "font"
+            },
+            {
+                "file": "images/BradWatchBack.png",
+                "name": "IMAGE_BRADWATCH_BACK",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "DigiBrad Watch",
+    "uuid": "2a8c674a-b918-4d8f-bce4-934f45549d54",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
