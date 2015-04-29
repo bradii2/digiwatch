@@ -9,14 +9,24 @@
     "resources": {
         "media": [
             {
+                "file": "images/BradWatchV2.png",
+                "name": "IMAGE_BRADWATCH_BACK",
+                "type": "png"
+            },
+            {
+                "file": "fonts/digital-7 (mono).ttf",
+                "name": "FONT_DIGITAL_SEVEN_14",
+                "type": "font"
+            },
+            {
                 "file": "fonts/digital-7 (mono).ttf",
                 "name": "FONT_DIGITAL_SEVEN_24",
                 "type": "font"
             },
             {
-                "file": "images/BradWatchBack.png",
-                "name": "IMAGE_BRADWATCH_BACK",
-                "type": "png"
+                "file": "fonts/digital-7 (mono).ttf",
+                "name": "FONT_DIGITAL_SEVEN_38",
+                "type": "font"
             }
         ]
     },
